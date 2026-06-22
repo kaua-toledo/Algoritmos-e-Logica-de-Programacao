@@ -1,111 +1,46 @@
 # Algoritmos e Lógica de Programação
 
-Repositório dedicado ao estudo de algoritmos, lógica de programação e fundamentos da computação.
+Repositório destinado aos estudos e exercícios desenvolvidos durante o curso de Algoritmos e Lógica de Programação.
 
-O objetivo deste projeto é desenvolver uma base sólida em resolução de problemas, raciocínio lógico e construção de software, utilizando VisualG e Java como ferramentas de aprendizado.
-
-Esta é a primeira etapa da minha jornada como desenvolvedor Backend Java.
-
----
-
-## Objetivos
-
-* Fortalecer o raciocínio lógico e o pensamento computacional;
-* Desenvolver habilidades de resolução de problemas;
-* Consolidar os fundamentos da programação;
-* Aprender a transformar regras de negócio em algoritmos;
-* Construir uma base consistente para estudos avançados em Java e desenvolvimento Backend.
-
----
-
-## Tecnologias Utilizadas
-
-* VisualG
-* Java
-* Git
-* GitHub
-
----
+O objetivo deste projeto é consolidar os fundamentos da programação por meio da resolução de problemas, desenvolvimento do raciocínio lógico e aplicação dos principais conceitos presentes em qualquer linguagem de programação.
 
 ## Conteúdo
 
-### Estrutura Sequencial
+* Estruturas Sequenciais
+* Estruturas Condicionais
+* Estruturas Repetitivas
+* Vetores
+* Matrizes
 
-* Variáveis e tipos de dados
-* Operações matemáticas
-* Entrada e saída de dados
-* Processamento e conversão de valores
+## Linguagens
 
-### Estruturas Condicionais
+### Aplicada atualmente
 
-* Operadores relacionais
-* Operadores lógicos
-* if / else
-* Tomada de decisão
+* VisualG
 
-### Estruturas Repetitivas
+### Em andamento
 
-* for
-* while
-* Controle de fluxo
-* Repetições condicionais
+* Java
 
-### Vetores
+### Planejadas
 
-* Manipulação de arrays
-* Percorrimento de elementos
-* Operações básicas sobre coleções
+* Python
+* C#
+* C++
+* C
 
-### Matrizes
+## Objetivo
 
-* Estruturas bidimensionais
-* Leitura e processamento de dados matriciais
+* Desenvolver raciocínio lógico;
+* Aprimorar a capacidade de resolução de problemas;
+* Consolidar fundamentos de programação;
+* Registrar a evolução dos estudos ao longo do tempo;
+* Construir uma base sólida para tecnologias mais avançadas.
 
-### Exercícios Práticos
+## Curso Base
 
-Resolução de problemas propostos durante o curso, implementados em VisualG e Java.
-
----
-
-## Estrutura do Repositório
-
-```text
-Algoritmos-e-Logica-de-Programacao
-│
-├── VisualG
-│   ├── Estrutura-Sequencial
-│   ├── Estrutura-Condicional
-│   ├── Estrutura-Repetitiva
-│   ├── Vetores
-│   └── Matrizes
-│
-└── Java
-    ├── Estrutura-Sequencial
-    ├── Estrutura-Condicional
-    ├── Estrutura-Repetitiva
-    ├── Vetores
-    └── Matrizes
-```
-
----
-
-## Próximos Passos
-
-Após concluir os fundamentos de algoritmos e lógica de programação, os próximos estudos serão focados em:
-
-* Programação Orientada a Objetos com Java
-* Collections Framework
-* Tratamento de Exceções
-* SQL e Banco de Dados
-* Spring Boot
-* APIs REST
-* Docker
-* Arquitetura Backend
-
----
+Algoritmos e Lógica de Programação — Nélio Alves (Udemy)
 
 ## Autor
 
 Kauã Toledo
-
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Backend Java.
