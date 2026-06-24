@@ -1,6 +1,6 @@
 package app;
 
-public class Program {
+public class PrimeiroPrograma {
 
     static void main() {
 
