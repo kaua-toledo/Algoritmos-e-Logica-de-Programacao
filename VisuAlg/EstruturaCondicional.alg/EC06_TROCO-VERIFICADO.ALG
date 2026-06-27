@@ -17,7 +17,7 @@ Inicio
    valorTotal <- precoUnitario * quantidade
 
    se pagamento >= valorTotal entao
-      troco <- pagamento - valorProduto
+      troco <- pagamento - valorTotal
       escreval("TROCO: R$", troco:4:2)
    senao
       resto <- valorTotal - pagamento
