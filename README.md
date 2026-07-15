@@ -39,7 +39,8 @@ Este repositório foca deliberadamente em **VisuAlg** e **Java**:
 
 ## Curso Base
 
-Algoritmos e Lógica de Programação — Nélio Alves (Udemy)
+Algoritmos e Lógica de Programação — Nélio Alves (Udemy)  
+📜 [Certificado de conclusão](https://ude.my/UC-8e4e2a18-3aad-408a-9423-5167fecfd8f5)
 
 ## Autor
 
